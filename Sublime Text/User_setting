@@ -1,0 +1,30 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "smooth",
+	"draw_minimap_border": true,
+	"highlight_line": true,
+	"show_full_path": false,
+	"enable_tab_scrolling": false,
+	"font_face": "Fira Code",
+	"font_options":
+	[
+		"gray_antialias",
+		"ss03",
+		"ss04",
+		"ss05",
+		"ss06",
+	],
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"CppFastOlympicCoding",
+		"Vintage",
+		"Vintageous",
+	],
+	"theme": "Seti_orig.sublime-theme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+
+	"file_exclude_patterns": ["desktop.ini", "*.sublime-workspace", ".DS_Store"],
+
+	"binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".directory", "*.class", "*.psd", "*.db"],
+}

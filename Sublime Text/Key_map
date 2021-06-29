@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+shift+s"], "command": "auto_save" },
+	{ "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+	{ "keys": ["ctrl+alt+s"], "command": "gs_show_status"},
+	{ "keys": ["ctrl+alt+["], "command": "reindent", "args": {"single_line": false}}
+]
